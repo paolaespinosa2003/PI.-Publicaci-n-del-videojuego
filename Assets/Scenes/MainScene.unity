@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1
+GameObject:
+  m_Name: MainSceneRoot
+  m_IsActive: 1
+--- !u!1 &2
+GameObject:
+  m_Name: Directional Light
+  m_IsActive: 1
+--- !u!1 &3
+GameObject:
+  m_Name: Main Camera
+  m_IsActive: 1
+--- !u!1 &4
+GameObject:
+  m_Name: Managers
+  m_IsActive: 1
+--- !u!1 &5
+GameObject:
+  m_Name: GameManager
+  m_IsActive: 1
+--- !u!1 &6
+GameObject:
+  m_Name: LevelManager
+  m_IsActive: 1
+--- !u!1 &7
+GameObject:
+  m_Name: SaveManager
+  m_IsActive: 1
+--- !u!1 &8
+GameObject:
+  m_Name: AudioManager
+  m_IsActive: 1
+--- !u!1 &9
+GameObject:
+  m_Name: UI
+  m_IsActive: 1
+--- !u!1 &10
+GameObject:
+  m_Name: Canvas
+  m_IsActive: 1
+--- !u!1 &11
+GameObject:
+  m_Name: HelixTower
+  m_IsActive: 1
+--- !u!1 &12
+GameObject:
+  m_Name: Ball
+  m_IsActive: 1

@@ -1,0 +1,4 @@
+UI Layout (create these in Canvas):
+- MainMenu (Panel) with Start button -> MenuManager.OnStartButton
+- HUD (Panel): Score Text (assign UIManager.scoreText), Pause button
+- PausePanel, LevelCompletePanel, GameOverPanel, DeathPanel

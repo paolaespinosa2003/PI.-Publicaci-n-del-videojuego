@@ -1,0 +1,7 @@
+Pasos rápidos para compilar APK:
+1) Instalar Android Build Support (Unity Hub).
+2) File > Build Settings > Android > Switch Platform.
+3) Add Open Scenes (MainScene).
+4) Player Settings > Package name: com.tuNombre.helixjump
+5) Publishing > Create Keystore: paola_keystore.jks
+6) Build > elige carpeta y nombre HelixJump_Paola.apk

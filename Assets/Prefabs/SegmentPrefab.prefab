@@ -1,0 +1,5 @@
+%YAML 1.1
+--- !u!1001 &1002000
+GameObject:
+  m_Name: SegmentPrefab
+  m_IsActive: 1

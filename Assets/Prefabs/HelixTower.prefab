@@ -1,0 +1,5 @@
+%YAML 1.1
+--- !u!1001 &1003000
+GameObject:
+  m_Name: HelixTower
+  m_IsActive: 1
